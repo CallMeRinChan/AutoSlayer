@@ -1,0 +1,6 @@
+pyproject.toml
+AutoSlayer.egg-info/PKG-INFO
+AutoSlayer.egg-info/SOURCES.txt
+AutoSlayer.egg-info/dependency_links.txt
+AutoSlayer.egg-info/requires.txt
+AutoSlayer.egg-info/top_level.txt
